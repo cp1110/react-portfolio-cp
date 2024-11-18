@@ -50,6 +50,7 @@ const Hero = () => {
                             src={profilePic}
                             width={350}
                             height={350}
+
                             alt="Chandra Prakash"
                         />
                     </div>
